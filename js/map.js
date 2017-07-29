@@ -34,7 +34,7 @@
 			position: my_place,
 			title: "Restaurante",
 			visible: true,
-			icon: 'C:/TestHerbalife/Web/img/pin-mapa.png'
+			icon: 'img/pin-mapa.png'
 		})
 
 		UserLocation.get((coords)=>{
